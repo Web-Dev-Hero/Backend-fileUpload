@@ -1,0 +1,13 @@
+.a{
+  color:red
+}
+.b{
+  background-color: green;
+}
+.button{
+  padding: 5px 10px;
+  background-color: skyblue;
+  border-radius: 10px;
+  size: 2rem;
+  
+}
